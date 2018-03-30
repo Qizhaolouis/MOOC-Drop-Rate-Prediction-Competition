@@ -1,3 +1,5 @@
+Also read the report in http://rpubs.com/louischoki/Feature-Engineering-with-MOOC-Dataset
+------------
 # MOOC-Drop-Rate
 
 This is a documentation of the [**MOOC Dropout Prediction**](https://www.kaggle.com/c/mooc-dropout-prediction-17) project, which is a Kaggle competition.
