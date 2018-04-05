@@ -1,6 +1,6 @@
 Also read the report in http://rpubs.com/louischoki/Feature-Engineering-with-MOOC-Dataset
 ------------
-And the Tableau Visualization : https://public.tableau.com/profile/qi.zhao3672#!/vizhome/FinalProjectNEW/Story1
+And the Tableau Visualization : https://public.tableau.com/profile/qiz216#!/vizhome/FinalVersionNew/Story2
 ------------
 # MOOC-Drop-Rate
 
